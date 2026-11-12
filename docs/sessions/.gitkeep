@@ -1,0 +1,3 @@
+# Sesiones de interacción con Kiro al probar el Power (Req 15.3).
+# Añade un archivo por sesión con el patrón <fecha>-<tema>.md, p. ej. 2025-10-27-prueba-nmap.md.
+# Este .gitkeep mantiene la carpeta versionada aunque aún no haya sesiones.
